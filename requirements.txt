@@ -1,0 +1,10 @@
+flake8
+pytest
+pytorch
+numpy
+matplotlib
+scikit-learn
+pandas
+prtorch_msssim
+tqdm
+livelossplot
